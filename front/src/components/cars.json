@@ -1,0 +1,102 @@
+[
+  {
+    "year": 2018,
+    "price": 20000,
+    "mileage": 25000,
+    "make": "Toyota",
+    "model": "Camry",
+    "vin": "2G4GN5EX8E9464990",
+    "color": "Red",
+    "status": "Available"
+  },
+  {
+    "year": 2020,
+    "price": 25000,
+    "mileage": 15000,
+    "make": "Honda",
+    "model": "Civic",
+    "vin": "1HGCM82633A123456",
+    "color": "Blue",
+    "status": "Sold"
+  },
+  {
+    "year": 2020,
+    "price": 20000,
+    "mileage": 1000,
+    "make": "Benz",
+    "model": "SLS",
+    "vin": "12345678",
+    "color": "Blue",
+    "status": "Sold"
+  },
+  {
+    "year": 2019,
+    "price": 22000,
+    "mileage": 18000,
+    "make": "Ford",
+    "model": "Focus",
+    "vin": "3FA6P0HD4KR147852",
+    "color": "White",
+    "status": "Sold"
+  },
+  {
+    "year": 2017,
+    "price": 18000,
+    "mileage": 30000,
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "vin": "1G1ZC5ST9HF190903",
+    "color": "Black",
+    "status": "Sold"
+  },
+  {
+    "year": 2021,
+    "price": 28000,
+    "mileage": 5000,
+    "make": "BMW",
+    "model": "X5",
+    "vin": "5UXKR2C5XK0A12345",
+    "color": "Silver",
+    "status": "Available"
+  },
+  {
+    "year": 2022,
+    "price": 35000,
+    "mileage": 2000,
+    "make": "Audi",
+    "model": "Q7",
+    "vin": "WA1B4AFY6ND123456",
+    "color": "Gray",
+    "status": "Available"
+  },
+  {
+    "year": 2016,
+    "price": 16000,
+    "mileage": 40000,
+    "make": "Nissan",
+    "model": "Altima",
+    "vin": "1N4AL3AP2GN123456",
+    "color": "Blue",
+    "status": "Sold"
+  },
+  {
+    "year": 2000,
+    "price": 5000,
+    "mileage": 100000,
+    "make": "Shelby",
+    "model": "Cobra",
+    "vin": "1HGCM82633A004352",
+    "color": "White",
+    "status": "Available"
+  },
+  {
+    "year": 2024,
+    "price": 100000,
+    "mileage": 2000,
+    "make": "Kia",
+    "model": "Celtos",
+    "vin": "2FTRX18W1XCA34567",
+    "color": "Yellow",
+    "status": "Available"
+  }
+]
