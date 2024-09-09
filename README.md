@@ -1,5 +1,4 @@
-# Vue.js-assignment
-Vue.js take home assignment - Surya
+
 Prerequisites
 Node.js (latest version)
 Setting Up the Project
@@ -24,7 +23,7 @@ Start the Backend:
 Open another terminal and navigate to the back directory.
 Run node server.js to start the Express server.
 The backend server will be available at http://localhost:3000.
-UI Features
+5.UI Features
 Search by Make,model,color and VIN
 Filter by mileage,min and max year 
 Add new car
